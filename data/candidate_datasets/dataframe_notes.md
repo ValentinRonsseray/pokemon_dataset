@@ -1,0 +1,31 @@
+- [Classification des clients (crédit social)](https://www.kaggle.com/datasets/parisrohan/credit-score-classification)
+  - Sujet: Prédiction du score social d'un client (classification supervisée)
+  - Deux jeux de données : un pour l'entraînement et un pour le test
+  - Des valeurs manquantes éparpillées et des valeurs étranges (assimilables à des `NaN`)
+- [Thyroïde](https://www.kaggle.com/datasets/aneevinay/thyroid-cancer-recurrence-dataset?select=filtered_thyroid_data.csv)
+  - ⚠️ Sujet potentiel : Pourquoi il y a eu récidive ? (compliqué)
+  - Pas tant de données que ça (300 lignes, 13 colonnes)
+  - Pas de valeurs manquantes
+  - **Bof bof**
+- [Financial Transactions Dataset Analytics](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)
+- [Analyse de personnalité des clients](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
+  - Sujet : Segmentation des individus (?) (classification non supervisée 'clustering') 
+  - Quasi essentiellement que des variables numériques
+  - Très peu de valeurs manquantes
+- [Prédiction d'obésité](https://www.kaggle.com/datasets/adeniranstephen/obesity-prediction-dataset)
+  - Sujet : Prédiction de l'obésité (classification supervisée)
+  - ⚠️ Pas de jeu de test (à générer ?)
+  - Peu de modalités
+  - Pas de valeurs manquantes
+- [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- [Pokémon](https://www.kaggle.com/datasets/kotsop/pokmon-detective-challenge)
+  - Sujet: Prédiction de l'appartenance à la *Team Rocket* par la classification supervisée
+  - 1000 valeurs manquantes dans la colonne *Team Rocket* : correspondent au jeu de test
+  - Quelques variables qualitatives avec pas mal de modalités (environ 4 variables à 15 modalités)
+  - **Intéressant**
+- [Predict student's level](https://www.kaggle.com/datasets/farkhod77/predict-students-level/data)
+- [Red Wine Quality](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
+- [Faillites de startup](https://www.kaggle.com/datasets/dagloxkankwanda/startup-failures)
+  - ❌ Présence de variables qualitatives avec des valeurs non bornées
+  - **Ne pas traiter ce jeu de données**
+- [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data)
